@@ -1,7 +1,7 @@
 # My React Project
 
 ## Description
-This is a simple React project that demonstrates how to set up a basic React application with some components. It includes functionalities for logging in, viewing dashboards, and other core features.
+This is a simple React project that demonstrates how to set up a basic React application with some components. 
 
 ## Installation Instructions
 
