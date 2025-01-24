@@ -1,22 +1,25 @@
-# ReactJS Website Based on Design Sample
+# My React Project
 
-## Introduction
+## Description
+This is a simple React project that demonstrates how to set up a basic React application with some components. It includes functionalities for logging in, viewing dashboards, and other core features.
 
-Welcome to the ReactJS Website project! The goal of this project is to recreate a non-responsive website based on a given design sample. We’re focusing on getting the colors, fonts, and layout just right to match the original design. This is a static project, so no media queries or flexible layouts have been used—it's all about the pixel-perfect match for the specific screen size in the design.
+## Installation Instructions
 
-## Getting Started
+To run the application locally, follow these steps:
 
-To get this project up and running on your local machine, follow these steps:
+1. **Clone the repository:**
+   Open your terminal and run:
+  
+   git clone https://github.com/sksinthu/Navicode-Task.git
 
-### `npm start`
+**Navigate into the project directory:**
+cd My-React-Project
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+**Install dependencies:**
+npm install
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+**Run the application locally:**
+npm start
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Open your browser and go to http://localhost:3000 to see the app in action
